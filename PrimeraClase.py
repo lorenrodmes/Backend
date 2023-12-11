@@ -25,7 +25,7 @@ print(my_name)
 my_age = 12
 print(my_age)
 
-my_name = "Santiago"
+my_name = "Angie"
 print("aqui cambio", my_name)
 
 # input
